@@ -1,5 +1,5 @@
-INSERT INTO Student(StudentID, StudentName, Gender, DepartmentID)
+INSERT INTO Student (StudentID, Name, Age, Department)
 VALUES
-(1001, 'Arun', 'Male', 101),
-(1002, 'Divya', 'Female', 102),
-(1003, 'Karthik', 'Male', 101);
+(1, 'Arun', 20, 'CSE'),
+(2, 'Divya', 21, 'ECE'),
+(3, 'Karthik', 22, 'MECH');
