@@ -1,0 +1,5 @@
+INSERT INTO Student (StudentID, StudentName, Department)
+VALUES
+(1, 'Arun', 'CSE'),
+(2, 'Divya', 'ECE'),
+(3, 'Karthik', 'MECH');
