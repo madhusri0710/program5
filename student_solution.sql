@@ -1,4 +1,4 @@
-INSERT INTO Student (StudentID, Name, Age, Department)
+INSERT INTO Student (StudentID, StudentName, Age, Department)
 VALUES
 (1, 'Arun', 20, 'CSE'),
 (2, 'Divya', 21, 'ECE'),
